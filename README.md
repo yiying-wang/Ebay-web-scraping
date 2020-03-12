@@ -1,6 +1,6 @@
 # Ebay web scraping-- Which sellers advertise/sponsor on eBay
 
-### In this code, I will find out the summary stats of sponsor items of Ipad 4 on ebay website.
+### In this code, I will find out sponsor and nonsponsored items of Ipad 4 on ebay website. Then show the summary statistics of two groups and see the difference between them.
 
 ### steps are as follows:
 #### a.
